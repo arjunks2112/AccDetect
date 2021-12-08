@@ -59,7 +59,7 @@ Download anaconda from here https://www.anaconda.com/distribution/#download-sect
 
 > conda install -c conda-forge opencv
 
-Opencv
+# Opencv
 OpenCV is a great tool for image processing and performing computer vision tasks. It is an open-source library that can be used to perform tasks like face detection, objection tracking, landmark detection, and much more. It supports multiple languages including python, java C++.
-pytorch
+# pytorch
 PyTorch is an optimized tensor library primarily used for Deep Learning applications using GPUs and CPUs. It is an open-source machine learning library for Python, mainly developed by the Facebook AI Research team. It is one of the widely used Machine learning libraries, others being TensorFlow and Keras.

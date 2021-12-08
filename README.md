@@ -30,8 +30,7 @@ densenet201  :  22.80   : 6.43
 
 densenet161  :  22.35   : 6.20
 
-![alt text](https://raw.githubusercontent.com/arjunks2112/DetectX-Accident-Detection-Using-Deep-Learning
-/assets/densenet.png)
+![alt text](https://raw.githubusercontent.com/arjunks2112/DetectX-Accident-Detection-Using-Deep-Learning/assets/densenet.png)
 
 # Prerequisite 
 

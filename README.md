@@ -2,7 +2,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 # Overview 
-Our main goal of this project is to use deep learning and computer vision to detect accidents on dashcam and other visual footages that can b utilized ,and to report it to nearby emergency services with valid accident images.
+Our main goal of this project is to use deep learning and computer vision to detect accidents on dashcam and other visual footages that can be utilized ,and to report it to nearby emergency services with valid accident images.
 # Challenges
 1. To design a deep convolutional neural networks model for this project.
 

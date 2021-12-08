@@ -32,7 +32,11 @@ densenet161  :  22.35   : 6.20
 
 ![alt text](https://raw.githubusercontent.com/arjunks2112/DetectX-Accident-Detection-Using-Deep-Learning/master/assets/densenet.png)
 
-#Required Modules
+![alt text](https://raw.githubusercontent.com/arjunks2112/DetectX-Accident-Detection-Using-Deep-Learning/master/assets/arch.png)
+ 
+![alt text](https://raw.githubusercontent.com/arjunks2112/DetectX-Accident-Detection-Using-Deep-Learning/master/assets/block.png)
+
+# Required Modules
 
 webbrowser
 torch

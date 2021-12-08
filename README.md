@@ -32,6 +32,15 @@ densenet161  :  22.35   : 6.20
 
 ![alt text](https://raw.githubusercontent.com/arjunks2112/DetectX-Accident-Detection-Using-Deep-Learning/master/assets/densenet.png)
 
+#Required Modules
+
+webbrowser
+torch
+num as py
+cv2(opencv)
+torchvision
+dlib
+
 # Prerequisite 
 
 Download anaconda from here https://www.anaconda.com/distribution/#download-section
